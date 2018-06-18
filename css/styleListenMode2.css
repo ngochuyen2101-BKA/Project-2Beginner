@@ -1,0 +1,19 @@
+
+.guide {
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+}
+
+.wrapper {
+	margin-top: 5px;
+	text-align: center;
+}
+
+#listenResult {
+	visibility: hidden;
+}
+
+.modal-dialog {
+	margin: 10px auto 0px auto
+}

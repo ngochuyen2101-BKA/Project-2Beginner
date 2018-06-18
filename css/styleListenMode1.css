@@ -1,0 +1,40 @@
+.guide {
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+    float: left;
+}
+
+.inputWord {
+    background-color: transparent;
+    border-right: none;
+    border-left: none;
+    border-top: none;
+    border-radius: 2px;
+	border-bottom: 1px solid gray;
+}
+
+.fillBlanks {
+    height: 150px;
+    margin-top: 10px;
+    border: solid black 1px;
+}
+
+.transcript {
+    margin-left: 5px;
+    font-size: 15px;
+    padding: 5px 5px 5px 5px;
+}
+
+.wrapper {
+    margin-top: 20px;
+    text-align: center;
+}
+
+#listenResult {
+    visibility: hidden;
+}
+
+.modal-dialog {
+    margin: 10px auto 0px auto
+}

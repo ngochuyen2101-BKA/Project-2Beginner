@@ -1,0 +1,43 @@
+#trackSlider {
+	margin: 10px;
+	width: 750px;
+}
+
+.display {
+	font-size: 15px;
+}
+
+.current-time {
+	float: left;
+}
+
+.duration {
+	margin-left: 10px;
+	float: right;
+}
+
+.second-part {
+	margin-top: 10px;
+	float: right;
+}
+
+#volume2 {
+	margin: 10px;
+	width: 20px;
+	float: right;
+}
+
+.title {
+	font-size: larger;
+	color: #1b6d85;
+	font-weight: bolder;
+}
+
+.player-back {
+	background-color: #efefef;
+}
+
+#playBtn {
+	margin: 10px;
+	margin-right: 20px;
+}

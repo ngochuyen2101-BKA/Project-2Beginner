@@ -1,0 +1,7 @@
+﻿- Các yêu cầu khi làm file Transcipt để chương trình chạy đúng
+ +) kết thúc phần transcipt là đoạn kí tự "--->"
+ +) sau đoạn kí tự là danh sách các từ được phân cách bằng dấu phẩy (VD: I,you,me)
+
+- Các ngoại lệ sẽ xảy ra nếu:
+  + từ cần ẩn là 1 phần của dãy số liên tiếp (VD: số ĐT)
+  

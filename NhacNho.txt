@@ -1,0 +1,4 @@
+﻿có : nút chuyển lv tiếp theo nếu pass? nếu ko pass thì có nút Retry
+ghi chú: trong listen.js có biến doing lưu trữ level hiện tại
+luc dau cu luu la 1, tao MaNH la 1
+	 

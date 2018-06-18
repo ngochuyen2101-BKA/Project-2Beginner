@@ -1,0 +1,10 @@
+
+#guide {
+	font-weight: bold;
+	font-style: italic;
+	font-size: 20px;
+}
+
+input[type=submit] {
+	margin-top: 15px;
+}

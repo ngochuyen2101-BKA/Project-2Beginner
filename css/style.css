@@ -1,0 +1,16 @@
+body {
+    background-image: url("../Image/bg3.jpg");
+    background-repeat: repeat;
+    color: #555555;
+}
+
+a {
+    text-decoration: none;
+}
+
+#ModalWord {
+    margin-top: 50px;
+}
+
+
+
